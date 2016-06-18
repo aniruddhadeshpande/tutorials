@@ -11,5 +11,7 @@
 Git commands 
 
 1. To delete multiple files  : git ls-files --deleted -z | xargs -0 git rm 
+2. git log : git commit logs
+3. git show gitcommithashcode : to track changes
 
  
