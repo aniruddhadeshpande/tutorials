@@ -1,3 +1,15 @@
 ﻿1. sudo apt-get install git
 2. git config --global user.email "mail@gmail.com"
-3. git config --global user.name "Aniruddha Deshpande"
+3. git config --global user.name "Your name"
+4. git init
+5. git add : to add file in repository.
+6. Create git ignore if required 
+7. Create repository on Github.com
+8. git remote add origin https://github.com/username/repository.git
+9. git push -u origin master 
+
+Git commands 
+
+1. To delete multiple files  : git ls-files --deleted -z | xargs -0 git rm 
+
+ 
